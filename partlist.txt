@@ -1,0 +1,21 @@
+Partlist
+
+Exported from usb-condom.sch at 2/15/2018 12:25 PM
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device     Package             Library  Sheet
+
+C1       10uF           C-USM0805  M0805               _jc      1
+C2       100nF          C-USM0805  M0805               _jc      1
+D1       APT2012SYCK    LEDM0805   M0805               _jc      1
+JP1      Input          UP2-AH-TH  UP2-AH-X-TH         _jc      1
+JP2      Output         USB-A      USB-A-S-RA-ADAMTECH _jc      1
+R1       75K            R-US_M0805 M0805               _jc      1
+R2       51.1K          R-US_M0805 M0805               _jc      1
+R3       42.2K          R-US_M0805 M0805               _jc      1
+R4       54.9K          R-US_M0805 M0805               _jc      1
+R5       100            R-US_M0805 M0805               _jc      1
+R6       470            R-US_M0805 M0805               _jc      1

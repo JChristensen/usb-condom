@@ -1,0 +1,33 @@
+#Gerber files
+*.gbl
+*.gbo
+*.gbs
+*.gml
+*.gtl
+*.gto
+*.gts
+*.gtp
+*.gbp
+*.ger
+*.gpi
+*.dri
+*.xln
+*.gko
+
+#Eagle files
+*.epf
+*.b#?
+*.s#?
+*.do
+*.pro
+
+#Other files
+*.zip
+*.png
+*.xls
+*.xlsx
+Thumbs.db
+!board.png
+!board-sm.png
+!schematic.png
+!partList.txt
